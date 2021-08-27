@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SquaredNumbers", "SquaredNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqauredArray", "..\SqauredArray\SqauredArray.csproj", "{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tornament", "Tornament", "{408A0E7A-BB12-459D-A85E-CD94450EFF0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentWinner", "..\TournamentWinner\TournamentWinner.csproj", "{888470F9-8D0D-4652-95F4-8B5EECC3E43B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888470F9-8D0D-4652-95F4-8B5EECC3E43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888470F9-8D0D-4652-95F4-8B5EECC3E43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888470F9-8D0D-4652-95F4-8B5EECC3E43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888470F9-8D0D-4652-95F4-8B5EECC3E43B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,6 +55,7 @@ Global
 		{7191BC4E-41F2-4979-BF23-160C02B6D16F} = {C7BE3EEA-E258-4EC2-93A9-2F9A737A1C8B}
 		{C4F1DF79-0D01-4D0A-B55D-440F71C3147A} = {A3A8C575-83E2-4FF7-974F-11A220BC4626}
 		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7} = {C2119A63-C2D7-4F56-9A5D-B4C00697E0A3}
+		{888470F9-8D0D-4652-95F4-8B5EECC3E43B} = {408A0E7A-BB12-459D-A85E-CD94450EFF0E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC320F20-4C6A-4192-A0ED-614B4F1974DC}
