@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmPractice", "AlgorithmPractice.csproj", "{68925C6C-A9E9-4EFF-82CC-795649815387}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NumberSum", "NumberSum", "{C7BE3EEA-E258-4EC2-93A9-2F9A737A1C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberSum", "..\NumberSum\NumberSum.csproj", "{7191BC4E-41F2-4979-BF23-160C02B6D16F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ValidateSequence", "ValidateSequence", "{A3A8C575-83E2-4FF7-974F-11A220BC4626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateSequence", "..\ValidateSequence\ValidateSequence.csproj", "{C4F1DF79-0D01-4D0A-B55D-440F71C3147A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SquaredNumbers", "SquaredNumbers", "{C2119A63-C2D7-4F56-9A5D-B4C00697E0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqauredArray", "..\SqauredArray\SqauredArray.csproj", "{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68925C6C-A9E9-4EFF-82CC-795649815387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68925C6C-A9E9-4EFF-82CC-795649815387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68925C6C-A9E9-4EFF-82CC-795649815387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68925C6C-A9E9-4EFF-82CC-795649815387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7191BC4E-41F2-4979-BF23-160C02B6D16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7191BC4E-41F2-4979-BF23-160C02B6D16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7191BC4E-41F2-4979-BF23-160C02B6D16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7191BC4E-41F2-4979-BF23-160C02B6D16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F1DF79-0D01-4D0A-B55D-440F71C3147A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F1DF79-0D01-4D0A-B55D-440F71C3147A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F1DF79-0D01-4D0A-B55D-440F71C3147A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F1DF79-0D01-4D0A-B55D-440F71C3147A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7191BC4E-41F2-4979-BF23-160C02B6D16F} = {C7BE3EEA-E258-4EC2-93A9-2F9A737A1C8B}
+		{C4F1DF79-0D01-4D0A-B55D-440F71C3147A} = {A3A8C575-83E2-4FF7-974F-11A220BC4626}
+		{E9EAA729-6BA7-486F-B5B9-9B42AD195BF7} = {C2119A63-C2D7-4F56-9A5D-B4C00697E0A3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC320F20-4C6A-4192-A0ED-614B4F1974DC}
+	EndGlobalSection
+EndGlobal
