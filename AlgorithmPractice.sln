@@ -23,11 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TournamentWinner", "..\Tour
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeepFirstSearch", "DeepFirstSearch", "{8EEDDB77-0BE4-4E1E-BACA-6022EB8B5050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepFirstSearch", "AlgorithmPractice\DeepFirstSearch\DeepFirstSearch.csproj", "{53413BC1-7C17-4E84-81BC-0FE8DC5A3D83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepFirstSearch", "AlgorithmPractice\DeepFirstSearch\DeepFirstSearch.csproj", "{53413BC1-7C17-4E84-81BC-0FE8DC5A3D83}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ParkingDelimma", "ParkingDelimma", "{40AF5771-0201-4FED-B912-C7C200D49FDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingDelimma", "AlgorithmPractice\ParkingDelimma\ParkingDelimma.csproj", "{143A4E3D-C516-410E-948C-78DED5B3A280}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingDelimma", "AlgorithmPractice\ParkingDelimma\ParkingDelimma.csproj", "{143A4E3D-C516-410E-948C-78DED5B3A280}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Palindrome", "Palindrome", "{FBFB7066-6318-4FF1-B2F4-FA7CB86A0E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "AlgorithmPractice\Palindrome\Palindrome.csproj", "{B3979188-8925-4431-A24D-7ED9E0640F4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,10 @@ Global
 		{143A4E3D-C516-410E-948C-78DED5B3A280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{143A4E3D-C516-410E-948C-78DED5B3A280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{143A4E3D-C516-410E-948C-78DED5B3A280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3979188-8925-4431-A24D-7ED9E0640F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3979188-8925-4431-A24D-7ED9E0640F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3979188-8925-4431-A24D-7ED9E0640F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3979188-8925-4431-A24D-7ED9E0640F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +82,7 @@ Global
 		{888470F9-8D0D-4652-95F4-8B5EECC3E43B} = {408A0E7A-BB12-459D-A85E-CD94450EFF0E}
 		{53413BC1-7C17-4E84-81BC-0FE8DC5A3D83} = {8EEDDB77-0BE4-4E1E-BACA-6022EB8B5050}
 		{143A4E3D-C516-410E-948C-78DED5B3A280} = {40AF5771-0201-4FED-B912-C7C200D49FDB}
+		{B3979188-8925-4431-A24D-7ED9E0640F4B} = {FBFB7066-6318-4FF1-B2F4-FA7CB86A0E7F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC320F20-4C6A-4192-A0ED-614B4F1974DC}
