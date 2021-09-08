@@ -31,7 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingDelimma", "Algorithm
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Palindrome", "Palindrome", "{FBFB7066-6318-4FF1-B2F4-FA7CB86A0E7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "AlgorithmPractice\Palindrome\Palindrome.csproj", "{B3979188-8925-4431-A24D-7ED9E0640F4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "AlgorithmPractice\Palindrome\Palindrome.csproj", "{B3979188-8925-4431-A24D-7ED9E0640F4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TandemBicycle", "TandemBicycle", "{34254F69-1C30-42F4-BC7F-840EF25DC100}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TandemBicycle", "AlgorithmPractice\TandemBicycle\TandemBicycle.csproj", "{887CFD0C-009A-45C4-8E6B-12BCAE768852}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinarySearch", "BinarySearch", "{8177241B-D501-4EC2-AE19-C698E0EA75E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "AlgorithmPractice\BinarySearch\BinarySearch.csproj", "{863087EF-5954-46E2-820F-439B12CCD935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +79,14 @@ Global
 		{B3979188-8925-4431-A24D-7ED9E0640F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3979188-8925-4431-A24D-7ED9E0640F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3979188-8925-4431-A24D-7ED9E0640F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887CFD0C-009A-45C4-8E6B-12BCAE768852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887CFD0C-009A-45C4-8E6B-12BCAE768852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887CFD0C-009A-45C4-8E6B-12BCAE768852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887CFD0C-009A-45C4-8E6B-12BCAE768852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863087EF-5954-46E2-820F-439B12CCD935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863087EF-5954-46E2-820F-439B12CCD935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863087EF-5954-46E2-820F-439B12CCD935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863087EF-5954-46E2-820F-439B12CCD935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +99,8 @@ Global
 		{53413BC1-7C17-4E84-81BC-0FE8DC5A3D83} = {8EEDDB77-0BE4-4E1E-BACA-6022EB8B5050}
 		{143A4E3D-C516-410E-948C-78DED5B3A280} = {40AF5771-0201-4FED-B912-C7C200D49FDB}
 		{B3979188-8925-4431-A24D-7ED9E0640F4B} = {FBFB7066-6318-4FF1-B2F4-FA7CB86A0E7F}
+		{887CFD0C-009A-45C4-8E6B-12BCAE768852} = {34254F69-1C30-42F4-BC7F-840EF25DC100}
+		{863087EF-5954-46E2-820F-439B12CCD935} = {8177241B-D501-4EC2-AE19-C698E0EA75E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC320F20-4C6A-4192-A0ED-614B4F1974DC}

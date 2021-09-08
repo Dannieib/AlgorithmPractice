@@ -19,7 +19,7 @@ namespace Palindrome
 
         static bool Palindrome(string palindromeNumber)
         {
-            #region I know this process over-engineered and tiring. you can optimize it at your end or when practicing.
+            #region I know this process is over-engineered and tiring. you can optimize it at your end or when practicing.
             var convertToArray = palindromeNumber.ToCharArray();
             Array.Reverse(convertToArray);
             var reverted = String.Join("", convertToArray);
